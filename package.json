@@ -1,7 +1,7 @@
 {
-  "name": "regardeh",
+  "name": "MovieTVShows",
   "version": "1.0.0",
-  "description": "Project 2 Starter",
+  "description": "Search Movies, TV Shows",
   "main": "server.js",
   "engines": {
     "node": "10.1.0"
